@@ -1,0 +1,8 @@
+<meta>
+    <file src="fonts/signika.ttf"/>
+
+    <file src="sounds/giveMoney.mp3"/>
+    <file src="sounds/takeMoney.mp3"/>
+    <file src="sounds/carAlarmChirp.mp3"/>
+    <file src="sounds/carLock.mp3"/>
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+    <script src="s_bw.lua" type="server"/>
+    <script src="c_bw.lua" type="client" validate="true"/>
+</meta>

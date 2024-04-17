@@ -1,0 +1,5 @@
+<meta>
+	<script src="c_hud.lua" type="client" cache="true" validate="true"/>
+	<script src="c_notifications.lua" type="client" cache="true" validate="true"/>
+	<script src="c_nametags.lua" type="client" cache="true" validate="true"/>
+</meta>

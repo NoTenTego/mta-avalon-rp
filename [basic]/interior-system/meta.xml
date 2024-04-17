@@ -1,0 +1,9 @@
+<meta>
+    <script src="s_admin.lua" type="server"/>
+    <script src="s_interiors.lua" type="server"/>
+
+    <script src="g_interiors.lua" type="shared"/>
+
+    <script src="c_pickup.lua" type="client" validate="true"/>
+	<script src="c_switch.lua" type="client" cache="false" validate="true"/>
+</meta>

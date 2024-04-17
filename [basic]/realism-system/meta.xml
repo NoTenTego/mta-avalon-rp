@@ -1,0 +1,7 @@
+<meta>
+    <script src="c_tak.lua" type="client" cache="true" validate="true"/>
+
+    <script src="s_vehicle.lua" type="server"/>
+
+    <file src="sounds/blowoff.wav"/>
+</meta>

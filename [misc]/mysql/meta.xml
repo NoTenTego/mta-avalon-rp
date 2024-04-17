@@ -1,0 +1,9 @@
+<meta>
+	<script src="connection.lua" type="server"/>
+	<script src="s_mysql.lua" type="server"/>
+
+	<export function="execute" type="server"/>
+	<export function="query" type="server"/>
+
+	<min_mta_version server="1.5.2" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <script src="c_itemFunctions.lua" type="client"/>
+    <script src="s_itemFunctions.lua" type="server"/>
+
+    <script src="c_inventory.lua" type="client" cache="true" validate="true"/>
+    <script src="c_switch.lua" type="client" cache="false" validate="true"/>
+</meta>

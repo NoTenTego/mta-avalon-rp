@@ -1,0 +1,10 @@
+<meta>
+    <script src="s_switch.lua" type="server"/>
+    <script src="s_loginPanel.lua" type="server"/>
+    <script src="s_characterSelection.lua" type="server"/>
+
+    <script src="c_switch.lua" type="client" cache="false" validate="true"/>
+	<script src="c_camera.lua" type="client" validate="true"/>
+	<script src="c_loginPanel.lua" type="client" validate="true"/>
+	<script src="c_characterSelection.lua" type="client" validate="true"/>
+</meta>

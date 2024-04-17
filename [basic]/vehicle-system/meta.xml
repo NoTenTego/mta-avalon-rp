@@ -1,0 +1,16 @@
+<meta>
+    <script src="s_admin.lua" type="server"/>
+    <script src="s_handling.lua" type="server"/>
+    <script src="s_vehicles.lua" type="server"/>
+
+    <script src="s_vehicle_commands.lua" type="server"/>
+
+    <script src="c_vehicles.lua" type="client" validate='true'/>
+
+    <script src="g_variants.lua" type="shared"/>
+
+    <script src="c_admin.lua" type="client" validate="true"/>
+	<script src="c_handling.lua" type="client" validate="true"/>
+	<script src="c_switch.lua" type="client" cache="false" validate="true"/>
+	<script src="c_vehicleMenu.lua" type="client" validate="true"/>
+</meta>

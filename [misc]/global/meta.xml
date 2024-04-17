@@ -1,0 +1,30 @@
+<meta>
+    <script src="c_utils.lua" type="client" />
+    
+    <script src="g_utils.lua" type="shared" />
+    <export function="getTimestamp" type="shared" />
+    <export function="getPlayerName" type="shared" />
+    <export function="findInTable" type="shared" />
+    <export function="getVehicleVelocity" type="shared" />
+
+    <script src="s_utils.lua" type="server" />
+    <export function="giveMoney" type="server" />
+    <export function="takeMoney" type="server" />
+
+    <script src="c_sounds.lua" type="client" />
+    
+    <script src="g_permissions.lua" type="shared" />
+    <export function="hasPermission" type="shared" />
+    
+    <script src="s_worldSettings.lua" type="server" />
+    
+    <script src="s_playerID.lua" type="server" />
+
+    <script src="g_playerFind.lua" type="shared" />
+    <export function="findPlayer" type="shared" />
+
+    <script src="g_rankNames.lua" type="shared" />
+    <export function="getRankName" type="shared" />
+    
+    <min_mta_version server="1.5.7-9.20477" client="1.5.7-9.20447" />
+</meta>

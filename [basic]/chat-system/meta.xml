@@ -1,0 +1,11 @@
+<meta>
+    <script src="s_chat-ic.lua" type="server"/>
+    <script src="c_chat-ic.lua" type="client" validate='true'/>
+
+    <script src="s_chat-ooc.lua" type="server"/>
+    <script src="c_chat-ooc.lua" type="client" cache='true' validate='true'/>
+
+    <min_mta_version client="1.5.7-9.20447" />
+
+    <script src="c_switch.lua" type="client" cache="false" validate="true"/>
+</meta>
