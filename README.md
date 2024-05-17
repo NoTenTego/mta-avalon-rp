@@ -1,6 +1,16 @@
-Firstly, we'd like to inform you that our technical documentation is inspired by devblog devGaming, which first published a similar material. We encourage you to check out their article to delve even deeper into the subject.
+> [!CAUTION]
+>CEF is generally good, but it's significantly constrained by MTA due to the lack of GPU rendering support. This limitation affects the performance of larger applications and 2D/3D rendering, often resulting in low FPS in animations, causing them to stutter when many elements are displayed at once.
 
-Now, getting down to business: we've prepared technical documentation for our project so you can take a peek under the hood of our game. We've implemented some unconventional solutions, so we've created this documentation to provide a closer look at our technological choices and their implementation. In short, we'll discuss the technologies we use and explain why we decided to use them. Ready for an adventure into the depths of the code? Let's dive in!
+>Additionally, there are compatibility problems for users with older PCs. CEF might crash frequently or fail to run altogether on these systems. However, it's not a major concern since very few people are still using outdated systems like Windows 7.
+
+</br>
+</br>
+
+> [!NOTE]
+>We've prepared technical documentation for our project so you can take a peek under the hood of our game. We've implemented some unconventional solutions, so we've created this documentation to provide a closer look at our technological choices and their implementation. In short, we'll discuss the technologies we use and explain why we decided to use them. Ready for an adventure into the depths of the code? Let's dive in!
+
+</br>
+</br>
 
 <h2><b>UI Design in the Game and Its Performance</b></h1>
 
